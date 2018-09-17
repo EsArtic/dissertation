@@ -1,0 +1,14 @@
+type: person
+min_x: 129
+min_y: 11
+max_x: 281
+max_y: 270
+prob: 0.999972
+
+type: dog
+min_x: 51
+min_y: 212
+max_x: 192
+max_y: 355
+prob: 0.999859
+

@@ -1,0 +1,7 @@
+type: bicycle
+min_x: 156
+min_y: 94
+max_x: 370
+max_y: 297
+prob: 0.999954
+

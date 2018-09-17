@@ -1,0 +1,7 @@
+type: aeroplane
+min_x: 138
+min_y: 175
+max_x: 369
+max_y: 257
+prob: 0.999989
+

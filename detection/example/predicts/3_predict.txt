@@ -1,0 +1,7 @@
+type: cow
+min_x: 299
+min_y: 161
+max_x: 399
+max_y: 245
+prob: 0.998995
+

@@ -1,0 +1,14 @@
+type: person
+min_x: 167
+min_y: 82
+max_x: 209
+max_y: 154
+prob: 0.99998
+
+type: person
+min_x: 240
+min_y: 82
+max_x: 298
+max_y: 151
+prob: 0.999942
+

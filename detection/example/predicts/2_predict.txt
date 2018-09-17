@@ -1,0 +1,14 @@
+type: person
+min_x: 66
+min_y: 46
+max_x: 194
+max_y: 194
+prob: 1.0
+
+type: motorbike
+min_x: 107
+min_y: 192
+max_x: 309
+max_y: 449
+prob: 0.998847
+
